@@ -1,29 +1,3 @@
-# Table Tennis Score Tracker (2-Player Version)
-
-This is a score tracking app for two-player table tennis matches, built with HTML, CSS, and JavaScript.  
-Users can freely set the target score, and the app supports deuce rules (a player must win by 2 points). When the match ends, the winner and loser are highlighted in different colors, and all scoring buttons are disabled automatically.
-
-## Technologies Used
-
-- HTML, CSS, JavaScript
-- UI Framework: Bulma
-- Responsive design for both desktop and mobile
-
-## Main Features
-
-- Increase score by clicking each player's button
-- Automatically determines the winner based on the target score and a 2-point difference rule
-- Winner is highlighted in green, loser in red
-- Reset button to restart the match easily
-- Users can choose the winning score between 3 and 11 points
-- Clean and responsive design using Bulma
-
-## Key Points / Highlights
-
-- Implemented deuce rule logic based on official table tennis rules
-- JavaScript is separated from HTML for better maintainability
-- Optimized DOM manipulation for readability and performance
-
 # 卓球スコア管理アプリ（2人用）
 
 HTML・CSS・JavaScript を使って作成した、2人用の卓球スコア管理アプリです。  
